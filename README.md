@@ -196,7 +196,7 @@ sh
 
 > Mention all of the collaborators of this project.
 
-👤 *Author1*
+👤 *Catherine*git 
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -276,4 +276,4 @@ This project is [MIT](./LICENSE) licensed.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>ad
