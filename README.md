@@ -53,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> this is a test project.
+> Describe your project in 1 or 2 sentences.
 
 *[your_project__name]* is a...
 
