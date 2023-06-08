@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Forms</title>
+    </head>
+    <body>
+        <h1>Form</h1>
+        <form action="/action_page.php">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="pwd">Password:</label><br>
+            <input type="password" id="pwd" name="pwd"><br>
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" pattern="[0-9]{4}-[0-9]{3}-[0-9]{3}">
+            <label for="languages">Language:</label>
+            <select id="languages" name="languages">
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="others">Others</option>
+            </select>
+            <label for="about">About:</label>
+            <input type="text" id="about" name="Write about yourself">
+            <input type="register" value="Register">
+
+        </form>
+    </body>
+</html>
